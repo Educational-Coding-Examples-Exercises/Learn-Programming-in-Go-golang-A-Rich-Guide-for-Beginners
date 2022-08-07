@@ -8,9 +8,11 @@ A Collection of repositories with Go code examples as they appear in the course
 #### Lecture 253 – Error output and write to log files
 [github.com/jagottsicher/myGoError-Handling](https://github.com/jagottsicher/myGoError-Handling)
 
-
 ### Sections Documentation, Tests and benchmarks
-[github.com/jagottsicher/meaning](https://github.com/jagottsicher/meaning)
+#### 268 – pkg.go.dev – the package documentation formerly known as godoc.org
+[github.com/jagottsicher/myGoMeaning](https://github.com/jagottsicher/myGoMeaning)
+#### Lecture 270 – Practice 1
+[github.com/jagottsicher/myGoDogDoc](https://github.com/jagottsicher/myGoDogDoc)
 
 [github.com/jagottsicher/myGoBenchmark](https://github.com/jagottsicher/myGoBenchmark)
 
