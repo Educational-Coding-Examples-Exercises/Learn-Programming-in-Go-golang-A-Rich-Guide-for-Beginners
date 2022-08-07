@@ -4,13 +4,14 @@ A Collection of repositories with Go code examples as they appear in the course
 ### Course outline
 [Kursübersicht als PDF v1.0.4 (ca. 460Kb)](https://github.com/Educational-Coding-Examples-Exercises/go-collection/raw/main/docs/Kurs%C3%BCbersicht:%20Programmieren%20lernen%20mit%20Go%20(golang).pdf)
 
-### Section Error handling - if an issue occurs, handle it
+### Section 24 – Error handling – if an issue occurs, handle it
 #### Lecture 253 – Error output and write to log files
 [github.com/jagottsicher/myGoError-Handling](https://github.com/jagottsicher/myGoError-Handling)
 
-### Sections Documentation, Tests and benchmarks
+### Sections 26 - 29 Documentation, Tests and benchmarks
 #### 268 – pkg.go.dev – the package documentation formerly known as godoc.org
 [github.com/jagottsicher/myGoMeaning](https://github.com/jagottsicher/myGoMeaning)
+
 #### Lecture 270 – Practice 1
 [github.com/jagottsicher/myGoDogDoc](https://github.com/jagottsicher/myGoDogDoc)
 
