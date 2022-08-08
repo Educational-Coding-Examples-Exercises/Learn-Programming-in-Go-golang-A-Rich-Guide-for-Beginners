@@ -15,6 +15,7 @@ A Collection of repositories with Go code examples as they appear in the course
 #### Lecture 270 – Practice 1
 [github.com/jagottsicher/myGoDogDoc](https://github.com/jagottsicher/myGoDogDoc)
 
+#### Lecture 278 – 280
 [github.com/jagottsicher/myGoBenchmark](https://github.com/jagottsicher/myGoBenchmark)
 
 [github.com/jagottsicher/myGoBETuebung](https://github.com/jagottsicher/myGoBETuebung)
