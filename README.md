@@ -18,9 +18,11 @@ A Collection of repositories with Go code examples as they appear in the course
 #### Lecture 278 – 280
 [github.com/jagottsicher/myGoBenchmark](https://github.com/jagottsicher/myGoBenchmark)
 
-[github.com/jagottsicher/myGoBETuebung](https://github.com/jagottsicher/myGoBETuebung)
+#### Lecture 282 – Practice 1
+[github.com/jagottsicher/myGoBETpractice](https://github.com/jagottsicher/myGoBETpractice)
 
-[github.com/jagottsicher/myGoBETuebung-loesung](https://github.com/jagottsicher/myGoBETuebung-loesung)
+#### Lecture 283 – 291 – Practice 1 a) – i) – an example solution
+[github.com/jagottsicher/myGoBETpracticeSolution](https://github.com/jagottsicher/myGoBETpracticeSolution)
 
 ### Section Package management & Go Modules
 [github.com/jagottsicher/myGoModulesBeispiel](https://github.com/jagottsicher/myGoModulesBeispiel)
