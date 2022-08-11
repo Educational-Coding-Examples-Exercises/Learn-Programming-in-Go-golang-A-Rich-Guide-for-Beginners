@@ -1,14 +1,14 @@
 A Collection of repositories with Go code examples as they appear in the course
 # Learn-Programming-in-Go-golang-A-Rich-Guide-for-Beginners
 
-### Course Outline
+## Course Outline
 [Course Outline with Links and Example (PDF, v1.0.1 (ca. 480Kb)](https://github.com/Educational-Coding-Examples-Exercises/Learn-Programming-in-Go-golang-A-Rich-Guide-for-Beginners/raw/main/docs/Learn%20Programming%20in%20Go%20(golang)_%20A%20Rich%20Guide%20for%20Beginners%20-%20Course%20Outline.pdf)
 
-### Section 24 – Error handling – if an issue occurs, handle it
+## Section 24 – Error handling – if an issue occurs, handle it
 #### Lecture 253 – Error output and write to log files
 [github.com/jagottsicher/myGoError-Handling](https://github.com/jagottsicher/myGoError-Handling)
 
-### Sections 26 - 29 Documentation, Tests and benchmarks
+## Sections 26 - 29 Documentation, Tests and benchmarks
 #### 268 – pkg.go.dev – the package documentation formerly known as godoc.org
 [github.com/jagottsicher/myGoMeaning](https://github.com/jagottsicher/myGoMeaning)
 
@@ -24,11 +24,13 @@ A Collection of repositories with Go code examples as they appear in the course
 #### Lecture 283 – 291 – Practice 1 a) – i) – an example solution
 [github.com/jagottsicher/myGoBETpracticeSolution](https://github.com/jagottsicher/myGoBETpracticeSolution)
 
-### Section Package Management & Go Modules
+## Section 30 Package Management & Go Modules
 #### Lecture 294 – Create a Go module yourself
 [github.com/jagottsicher/myGoModules-01-Start](https://github.com/jagottsicher/myGoModules-01-Start)
+
 #### Lecture 295 – 297 – Dependencies & Practice
 [github.com/jagottsicher/myGoModules-02-Practice](https://github.com/jagottsicher/myGoModules-02-Practice)
+
 #### Lecture 298 – Practice 1 a), b) – an example solution
 [github.com/jagottsicher/myGoModules-03-Practice-Solution](https://github.com/jagottsicher/myGoModules-03-Practice-Solution)
 
