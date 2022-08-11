@@ -33,7 +33,7 @@ A Collection of repositories with Go code examples as they appear in the course
 [github.com/jagottsicher/myGoModules-03-Practice-Solution](https://github.com/jagottsicher/myGoModules-03-Practice-Solution)
 
 ## External Resources:
-Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (golang)
+Links to important and generally accessible resources of the programming language Go (golang)
 
 [go.dev](https://go.dev) und [go.dev/play](https://go.dev/play)
 
@@ -43,7 +43,7 @@ Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (go
 
 [go.dev/play](https://go.dev/play) To the playground!
 
-[go.dev/doc/effective_go](https://go.dev/doc/effective_go) Examples and application of typical programming concepts in Go.
+[go.dev/doc/effective_go](https://go.dev/doc/effective_go) Examples and application of many typical programming concepts in Go.
 
 [go.dev/doc/faq](https://go.dev/doc/faq) Frequentliy asked questions - and answers!
 
