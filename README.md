@@ -24,15 +24,13 @@ A Collection of repositories with Go code examples as they appear in the course
 #### Lecture 283 – 291 – Practice 1 a) – i) – an example solution
 [github.com/jagottsicher/myGoBETpracticeSolution](https://github.com/jagottsicher/myGoBETpracticeSolution)
 
-### Section Package management & Go Modules
-[github.com/jagottsicher/myGoModulesBeispiel](https://github.com/jagottsicher/myGoModulesBeispiel)
-
-[github.com/jagottsicher/myGoModulesBeispielLoesung](https://github.com/jagottsicher/myGoModulesBeispielLoesung)
-
-## Also mentioned in some lectures
-[jagottsicher/just-a-go-dummy](https://github.com/jagottsicher/just-a-go-dummy)
-
-[github.com/jagottsicher/hundejahre](https://github.com/jagottsicher/hundejahre)
+### Section Package Management & Go Modules
+#### Lecture 294 – Create a Go module yourself
+[github.com/jagottsicher/myGoModules-01-Start](https://github.com/jagottsicher/myGoModules-01-Start)
+#### Lecture 295 – 297 – Dependencies & Practice
+[github.com/jagottsicher/myGoModules-02-Practice](https://github.com/jagottsicher/myGoModules-02-Practice)
+#### Lecture 298 – Practice 1 a), b) – an example solution
+[github.com/jagottsicher/myGoModules-03-Practice-Solution](https://github.com/jagottsicher/myGoModules-03-Practice-Solution)
 
 ## External Resources:
 Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (golang)
