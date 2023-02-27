@@ -2,7 +2,7 @@ A Collection of repositories with Go code examples as they appear in the course
 # Learn-Programming-in-Go-golang-A-Rich-Guide-for-Beginners
 
 ## Course Outline
-[Course Outline with Links and Example (PDF, v1.0.6 (ca. 675Kb)](https://github.com/Educational-Coding-Examples-Exercises/Learn-Programming-in-Go-golang-A-Rich-Guide-for-Beginners/raw/main/docs/Learn%20Programming%20in%20Go%20(golang)_%20A%20Rich%20Guide%20for%20Beginners%20-%20Course%20Outline.pdf)
+[Course Outline with Links and Example (PDF, v1.0.7 (ca. 840Kb)](https://github.com/Educational-Coding-Examples-Exercises/Learn-Programming-in-Go-golang-A-Rich-Guide-for-Beginners/raw/main/docs/Learn%20Programming%20in%20Go%20(golang)_%20A%20Rich%20Guide%20for%20Beginners%20-%20Course%20Outline.pdf)
 
 ## Section 24 – Error handling – if an issue occurs, handle it
 #### Lecture 253 – Error output and write to log files
